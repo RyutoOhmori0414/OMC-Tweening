@@ -1,0 +1,16 @@
+{
+    "name": "Local",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b619d58087e57b64983fa7c23b7fae91"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
